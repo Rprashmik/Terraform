@@ -47,13 +47,11 @@ terraform apply -var-file=env/dev.tfvars
 
 ```
 
-### 🔹 **Tools Used 
-
-```md
 ## Tools Used
 - Terraform
 - AWS
 - GitHub
+
 
 
 
