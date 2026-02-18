@@ -47,7 +47,7 @@ terraform apply -var-file=env/dev.tfvars
 
 ```
 
-### 🔹 **Tools Used – code block ke bahar**
+### 🔹 **Tools Used 
 
 ```md
 ## Tools Used
