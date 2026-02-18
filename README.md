@@ -44,13 +44,16 @@ terraform init
 terraform validate
 terraform plan -var-file=env/dev.tfvars
 terraform apply -var-file=env/dev.tfvars
-Tools Used
 
-Terraform
 
-AWS
+### 🔹 **Tools Used ko alag section me rakho**
 
-GitHub
+```md
+## Tools Used
+- Terraform
+- AWS
+- GitHub
+
 
 
 ---
